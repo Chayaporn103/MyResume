@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Chayaporn Chanthra's Resume</title>
+    <meta content="Chayaporn Chanthra's Resume, Translator, Japanese" name="description">
+    <meta content="" name="Chayaporn Chanthra's Resume">
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+
+      rel="stylesheet">
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <!-- =======================================================
+  * Template Name: MyResume - v4.9.2  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/  ======================================================== -->
+  </head>
+  <body>
+    <!-- ======= Mobile nav toggle button ======= -->
+    <!-- <button type="button" class="mobile-nav-toggle d-xl-none"><i class="bi bi-list mobile-nav-toggle"></i></button> -->
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex flex-column justify-content-center">
+      <nav id="navbar" class="navbar nav-menu">
+        <ul>
+          <li><a href="#hero" class="nav-link scrollto active"> <span>Home</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"> <span>About</span></a></li>
+          <li><a href="#resume" class="nav-link scrollto"> <span>Resume</span></a></li>
+          <li><a href="#portfolio" class="nav-link scrollto"> <span>Portfolio</span></a></li>
+          <li><a href="#services" class="nav-link scrollto"> <span>Services</span></a></li>
+          <li><a href="#contact" class="nav-link scrollto"> <span>Contact</span></a></li>
+        </ul>
+      </nav>
+      <!-- .nav-menu --> </header>
+    <!-- End Header -->
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex flex-column justify-content-center">
+      <div class="container" data-aos="zoom-in" data-aos-delay="100">
+        <h1>Chayaporn Chanthra</h1>
+        <p>I'm <span class="typed" data-typed-items="Translator, Writer, Freelancer, "></span></p>
+        <div class="social-links"> </div>
+      </div>
+    </section>
+    <!-- End Hero -->
+    <main id="main">
+      <!-- ======= About Section ======= -->
+      <section id="about" class="about">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>About</h2>
+            <p>Results-driven and detail-oriented Freelance Translator with a
+              proven track record of success in translating various materials
+              from Japanese to Thai and vice versa, interpreting dialogues and
+              conversations, providing linguistic assistance, and promoting
+              services all over the Internet. Offers excellent writing skills,
+              extraordinary reading and comprehension skills, and great time
+              management abilities.</p>
+          </div>
+          <div class="row">
+            <div class="col-lg-4">
+              <figure class="figure"> 
+              <img src="Pictures/01.jpg" class="img-fluid"
+
+                   alt="profile picture"> <figcaption class="figure-caption">Profile
+                  picture.</figcaption></figure> </div>
+            <div class="col-lg-8 pt-4 pt-lg-0 content">
+              <h3>Translator </h3>
+              <p class="fst-italic"> a person who translates from one language
+                into another, especially as a profession. </p>
+              <div class="row">
+                <div class="col-lg-6">
+                  <ul>
+                    <li> <strong>Birthday:</strong> <span>11 April 2000</span></li>
+                    <li> <strong>Website:</strong> <span>www.example.com</span></li>
+                    <li> <strong>Phone:</strong> <span>+123 456 7890</span></li>
+                    <li> <strong>City:</strong> <span>Nonthaburi, Thailand</span></li>
+                  </ul>
+                </div>
+                <div class="col-lg-6">
+                  <ul>
+                    <li> <strong>Age:</strong> <span>22</span></li>
+                    <li> <strong>Degree:</strong> <span>Bachelor's degree</span></li>
+                    <li> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
+                    <li> <strong>Freelance:</strong> <span>Available</span></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End About Section -->
+      <!-- ======= Skills Section ======= -->
+      <section id="skills" class="skills section-bg">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Skills</h2>
+          </div>
+          <div class="row skills-content">
+            <div class="col-lg-6">
+              <div class="progress"> <span class="skill">Japanese <i class="val">90%</i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+              <div class="progress"> <span class="skill">English <i class="val">70%</i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+              <div class="progress"> <span class="skill">Thai <i class="val">100%</i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="progress"> <span class="skill">Microsoft Office <i class="val">80%</i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+              <div class="progress"> <span class="skill">Adobe Photoshop <i class="val">60%</i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+              <div class="progress"> <span class="skill">HTML <i class="val">55%</i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Skills Section -->
+      <!-- ======= Resume Section ======= -->
+      <section id="resume" class="resume">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Resume</h2>
+          </div>
+          <div class="row">
+            <div class="col-lg-6">
+              <h3 class="resume-title">Education</h3>
+              <div class="resume-item">
+                <h4>Silpakorn University</h4>
+                <h5>2018 - Present</h5>
+                <p><em>Nakhon Pathom</em></p>
+                <ul>
+                  <li>Bachelor of Arts</li>
+                  <li>Major : Library and Information Science.</li>
+                  <li>Minor : Japanaese</li>
+                </ul>
+              </div>
+              <div class="resume-item">
+                <h4>Triumudomsuksa Pattanakarn Nonthaburi</h4>
+                <h5>2012 - 2017</h5>
+                <p><em>Nonthaburi</em></p>
+                <ul>
+                  <li>Japanese - English Program</li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <h3 class="resume-title">Work Experience</h3>
+              <div class="resume-item">
+                <h4>BACC Art Library</h4>
+                <h5>2022(2 months)</h5>
+                <p><em>Bangkok </em></p>
+                <ul>
+                  <li>catalog books.</li>
+                  <li>
+                    Prepare books before putting on the shelf.</li>
+                  <li>Design a poster for Kid's calendar event and loan term and
+                    rules.</li>
+                  <li>MC at the kid's calendar event.</li>
+                  <li>Explor and provide interesting books.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Resume Section -->
+      
+      
+  
+              
+      <!-- ======= Contact Section ======= -->
+      <section id="contact" class="contact">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Contact</h2>
+          </div>
+          <div class="row mt-1">
+            <div class="col-lg-4">
+              <div class="info">
+                <div class="address">
+                  <h4>Location:</h4>
+                  <p>A108 Adam Street, New York, NY 535022</p>
+                </div>
+                <div class="email">
+                  <h4>Email:</h4>
+                  <p>info@example.com</p>
+                </div>
+                <div class="phone">
+                  <h4>Call:</h4>
+                  <p>+1 5589 55488 55s</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-8 mt-5 mt-lg-0">
+              <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                <div class="row">
+                  <div class="col-md-6 form-group"> <input name="name" class="form-control"
+
+                      id="name" placeholder="Your Name" required="" type="text">
+                  </div>
+                  <div class="col-md-6 form-group mt-3 mt-md-0"> <input class="form-control"
+
+                      name="email" id="email" placeholder="Your Email" required=""
+
+                      type="email"> </div>
+                </div>
+                <div class="form-group mt-3"> <input class="form-control" name="subject"
+
+                    id="subject" placeholder="Subject" required="" type="text">
+                </div>
+                <div class="form-group mt-3"> <textarea class="form-control" name="message"
+
+rows="5" placeholder="Message" required=""></textarea> </div>
+                <div class="my-3">
+                  <div class="loading">Loading</div>
+                  <div class="sent-message">Your message has been sent. Thank
+                    you!</div>
+                </div>
+                <div class="text-center"><button type="submit">Send Message</button></div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Contact Section --> </main>
+    <!-- End #main -->
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+      <div class="container">
+        <h3>Chayaporn Chanthra</h3>
+        <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni
+          eligendi fuga maxime saepe commodi placeat.</p>
+        <div class="social-links"> </div>
+        <div class="copyright"> © Copyright <strong><span>MyResume</span></strong>.
+          All Rights Reserved </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: [license-url] -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/ -->
+          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> </div>
+      </div>
+    </footer>
+    <!-- End Footer -->
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/typed.js/typed.min.js"></script>
+    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+    
+  </body>
+</html>
